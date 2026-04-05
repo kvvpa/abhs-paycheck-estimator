@@ -1,0 +1,21 @@
+{
+  "pay_date": "03/25/2026",
+  "gross": 2334.07,
+  "net": 1748.48,
+  "taxable_wages": 2303.08,
+  "deductions": {
+    "federal_income_tax": 185.55,
+    "social_security_tax": 142.79,
+    "medicare_tax": 33.39,
+    "wa_paid_family_leave": 12.68,
+    "wa_paid_medical_leave": 6.17,
+    "wa_ltcare": 13.54,
+    "wa_li_ee": 23.36,
+    "union_dues": 35.01,
+    "ueelife": 8.25,
+    "ueeadnd": 0.5,
+    "dental_pretax": 27.47,
+    "vision_pretax": 3.52,
+    "roth": 93.36
+  }
+}
